@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="change_language_settings">Change Language Setting</string>
+    <string name="name_movie">Name Movie</string>
+    <string name="lorem">lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet</string>
+    <string name="gambar_poster">Picture</string>
+    <string name="movies">Movies</string>
+    <string name="tv_show">TV Show</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tvshow">TV Show</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="errorToast">Something have a mistake</string>
+</resources>
